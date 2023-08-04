@@ -1,0 +1,106 @@
+lib1 = require library1 ;
+function1 = from lib4 require multiple ;
+
+public class $2s extends _a$i1 implements sqrt32 , sda , twpo{ 
+    static {
+        let int das  ;
+        const float toe = null;
+        const( sunday = iota 
+               monday
+               tursday );
+        if(3 != 0 ){}
+    }
+    void main(){
+        let int eda , asfd , asd = 3;
+        let float sad ,asdw = sadasd = rtfg = 324.34 , sdfasf=32;
+        let boolean[] sdass , asdfaghfj , fsdf = {true,false ,false, false, true};
+        let int [][] ndkjasn = dasdasw = lk4r = {{2,53,35,65},{56,45,889},{87,87,78,987},{987,8},{12,32,12},{8,213,231,21}};
+        const int eda , asfd , asd = 3;
+        const float sakj34d ,asdfgs3dw = sad4234asd = rtfg0322 = 324.34 , sdf3dasf=5467;
+        const boolean[] sadhj , gdfgfagghhfj , fs543df = {true,false ,true, false, true};
+        const int [][] asfcd = lknmf = ieueq = {{2,3,3,5},{32,62,54},{2,31,28,67},{982,81},{11,1,56},{897,21983,26,54}};
+    }
+    function = (let int sda,let float inasd) => {
+        for(defas in 45:6456 step 6354){
+            if(~(dasd != fasda) & asd | saeed){
+                for(auto dasdwr32 in lkasheyo){
+                    while(poirmn == true | yassw & gholi ^ gada <> 12){
+                        sadad++;
+                        gtljior--;
+                    }
+                    do{
+                        let boolean ali,reza ,hojjat;
+                        circle lkdjfls;
+                        lkdjfls = new circle();
+                        dakjwkdm = djfn;
+
+                    }while( not(ali and reza or hojjat) );
+                    let int ldkfjolda;
+                    ldkfjolda = 4685;
+                    qwekm = wdnja[254:6878];
+                    weda = 22e-45;
+                    let int whos = 0;
+                    let int ssas = 45;
+                    switch (ssas){
+                                case 455:
+                                    let float saldk =0;
+                                case 21:
+                                    whos++;
+                                case 45:
+                                    whos--;
+                                case 4568:
+                                    whos = 0;
+                                default:
+                                    return 0;
+                }
+                break;
+
+
+                let float sss = 0;
+                kflds += dsalk;
+                sss << 5;
+                sss >> 45;
+                let float sum = 1000;
+                tes.sum %= 12;
+                circle.sum **= 2;
+                jas.sum /= 4;
+                aa.sum //= 1;
+                sum *= 5;
+                sum -= 12;
+                let int ooa = 25;
+                sss -= 1;
+                sss = (76 ** 12 + 12 - (-2) * (4+6) /6 ### 54 % 5 // 78 / 87);
+                sadda^jen0 ? kda++ : Poa++;
+            }
+
+            if(3 <= 5){
+
+            }else{
+              if(javid < heh)
+                return 20;
+            }
+            continue;
+        }
+
+
+
+    }
+
+
+
+
+
+
+
+
+    @@ salam in yek comment ast
+
+
+
+    /* sdkoidoi
+    ou3908ur30j
+    sdlijf09w48rnwakd';oafihe
+    dfhv908su903r3 */
+
+
+}
