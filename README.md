@@ -26,9 +26,9 @@ Ferdowsi University of Mashhad Theory of Languages and Machines Simple Language 
 [contributors-url]: https://github.com/javidchaji/FUM-Theory-of-Languages-and-Machines-Simple-Language-Implementation/graphs/contributors
 
 <!-- Forks -->
-[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Web-Programming-Hotel-Search-UI.svg?style=for-the-badge
+[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Theory-of-Languages-and-Machines-Simple-Language-Implementation.svg?style=for-the-badge
 
-[forks-url]: https://github.com/javidchaji/FUM-Web-Programming-Hotel-Search-UI/network/members
+[forks-url]: https://github.com/javidchaji/FUM-Theory-of-Languages-and-Machines-Simple-Language-Implementation/network/members
 
 
 <!-- Stars -->
