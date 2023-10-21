@@ -50,6 +50,8 @@ Ferdowsi University of Mashhad Theory of Languages and Machines Simple Language 
 
 <!-- This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples. -->
 
+Technologies and Tools Utilized in this Project
+
 * [![OpenJDK][OpenJDK.org]][OpenJDK-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
