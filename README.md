@@ -48,7 +48,7 @@ Ferdowsi University of Mashhad Theory of Languages and Machines Simple Language 
 
 ### Built With
 
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
+<!-- This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples. -->
 
 * [![Java][Java.com]][Java-url]
 
