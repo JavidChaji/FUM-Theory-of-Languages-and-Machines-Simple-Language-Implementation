@@ -1,15 +1,12 @@
 <a name="readme-top"></a>
 
+[![Contributors][Contributors-Shield]][Contributors-URL]
+[![Forks][Forks-Shield]][Forks-URL]
+[![Stargazers][Stars-Shield]][Stars-URL]
+[![Issues][Issues-Shield]][Issues-URL]
+[![MIT License][License-Shield]][License-URL]
 
-[![Contributors][contributors-shield]][contributors-url]
-[![Forks][forks-shield]][forks-url]
-[![Stargazers][stars-shield]][stars-url]
-[![Issues][issues-shield]][issues-url]
-[![MIT License][license-shield]][license-url]
-
-
-
-[![LinkedIn][linkedin-shield]][javid-linkedin-url]
+[![LinkedIn][LinkedIn-Shield]][Javid-LinkedIn-URL]
 
 # antlr-project
 
@@ -45,19 +42,15 @@ Ferdowsi University of Mashhad Theory of Languages and Machines Simple Language 
 
 
 
-
 ### Built With
 
 <!-- This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples. -->
 
 Technologies and Tools Utilized in this Project
 
-* [![OpenJDK][OpenJDK.org]][OpenJDK-url]
+* [![OpenJDK][OpenJDK-Shield]][OpenJDK-URL]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-
-
 
 
 
@@ -76,7 +69,6 @@ Don't forget to give the project a star! Thanks again!
 5. Open a Pull Request
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
 
 
 
@@ -100,7 +92,6 @@ Project Link: [https://github.com/JavidChaji/FUM-Theory-of-Languages-and-Machine
 
 
 
-
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
@@ -119,46 +110,46 @@ Use this space to list resources you find helpful and would like to give credit 
 
 
 
-
-
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 <!-- https://ileriayo.github.io/markdown-badges/ -->
 
 <!-- Contributors -->
-[contributors-shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Theory-of-Languages-and-Machines-Simple-Language-Implementation.svg?style=for-the-badge
+[Contributors-Shield]: https://img.shields.io/github/contributors/javidchaji/FUM-Theory-of-Languages-and-Machines-Simple-Language-Implementation.svg?style=for-the-badge
 
-[contributors-url]: https://github.com/javidchaji/FUM-Theory-of-Languages-and-Machines-Simple-Language-Implementation/graphs/contributors
+[Contributors-URL]: https://github.com/javidchaji/FUM-Theory-of-Languages-and-Machines-Simple-Language-Implementation/graphs/contributors
 
 <!-- Forks -->
-[forks-shield]: https://img.shields.io/github/forks/javidchaji/FUM-Theory-of-Languages-and-Machines-Simple-Language-Implementation.svg?style=for-the-badge
+[Forks-Shield]: https://img.shields.io/github/forks/javidchaji/FUM-Theory-of-Languages-and-Machines-Simple-Language-Implementation.svg?style=for-the-badge
 
-[forks-url]: https://github.com/javidchaji/FUM-Theory-of-Languages-and-Machines-Simple-Language-Implementation/network/members
+[Forks-URL]: https://github.com/javidchaji/FUM-Theory-of-Languages-and-Machines-Simple-Language-Implementation/network/members
 
 
 <!-- Stars -->
-[stars-shield]: https://img.shields.io/github/stars/javidchaji/FUM-Theory-of-Languages-and-Machines-Simple-Language-Implementation.svg?style=for-the-badge
+[Stars-Shield]: https://img.shields.io/github/stars/javidchaji/FUM-Theory-of-Languages-and-Machines-Simple-Language-Implementation.svg?style=for-the-badge
 
-[stars-url]: https://github.com/javidchaji/FUM-Theory-of-Languages-and-Machines-Simple-Language-Implementation/stargazers
+[Stars-URL]: https://github.com/javidchaji/FUM-Theory-of-Languages-and-Machines-Simple-Language-Implementation/stargazers
 
 
 <!-- Issues -->
-[issues-shield]: https://img.shields.io/github/issues/javidchaji/FUM-Theory-of-Languages-and-Machines-Simple-Language-Implementation.svg?style=for-the-badge
+[Issues-Shield]: https://img.shields.io/github/issues/javidchaji/FUM-Theory-of-Languages-and-Machines-Simple-Language-Implementation.svg?style=for-the-badge
 
-[issues-url]: https://github.com/javidchaji/FUM-Theory-of-Languages-and-Machines-Simple-Language-Implementation/issues
+[Issues-URL]: https://github.com/javidchaji/FUM-Theory-of-Languages-and-Machines-Simple-Language-Implementation/issues
 
 
 <!-- License -->
-[license-shield]: https://img.shields.io/github/license/javidchaji/FUM-Theory-of-Languages-and-Machines-Simple-Language-Implementation.svg?style=for-the-badge
+[License-Shield]: https://img.shields.io/github/license/javidchaji/FUM-Theory-of-Languages-and-Machines-Simple-Language-Implementation.svg?style=for-the-badge
 
-[license-url]: https://github.com/javidchaji/FUM-Theory-of-Languages-and-Machines-Simple-Language-Implementation/blob/master/LICENSE
-
-
-<!-- Linkedin -->
-[linkedin-shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
-
-[javid-linkedin-url]: https://linkedin.com/in/javidchaji
+[License-URL]: https://github.com/javidchaji/FUM-Theory-of-Languages-and-Machines-Simple-Language-Implementation/blob/master/LICENSE
 
 
-[OpenJDK.org]: https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
-[OpenJDK-url]: https://openjdk.org/
+<!-- LinkedIn -->
+[LinkedIn-Shield]: https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white
+
+[Javid-LinkedIn-URL]: https://linkedin.com/in/javidchaji
+
+
+<!-- LinkedIn -->
+[OpenJDK-Shield]: https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
+
+[OpenJDK-URL]: https://openjdk.org/
