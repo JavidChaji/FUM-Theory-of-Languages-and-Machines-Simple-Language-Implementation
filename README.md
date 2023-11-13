@@ -42,6 +42,11 @@ Ferdowsi University of Mashhad Theory of Languages and Machines Simple Language 
 
 
 
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+
+
 ### Built With
 
 <!-- This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples. -->
@@ -119,6 +124,7 @@ Use this space to list resources you find helpful and would like to give credit 
 
 [Contributors-URL]: https://github.com/javidchaji/FUM-Theory-of-Languages-and-Machines-Simple-Language-Implementation/graphs/contributors
 
+
 <!-- Forks -->
 [Forks-Shield]: https://img.shields.io/github/forks/javidchaji/FUM-Theory-of-Languages-and-Machines-Simple-Language-Implementation.svg?style=for-the-badge
 
@@ -149,7 +155,7 @@ Use this space to list resources you find helpful and would like to give credit 
 [Javid-LinkedIn-URL]: https://linkedin.com/in/javidchaji
 
 
-<!-- LinkedIn -->
+<!-- OpenJDK -->
 [OpenJDK-Shield]: https://img.shields.io/badge/OpenJDK-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white
 
 [OpenJDK-URL]: https://openjdk.org/
